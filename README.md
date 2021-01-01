@@ -12,4 +12,6 @@ I want:
 Added some vignette to hide the edge of distortions to make a smoother result. 
 
 The video is linked below:
+
+
 [![](https://img.youtube.com/vi/KXP1P7PAepQ/0.jpg)](https://youtu.be/KXP1P7PAepQ "CRT Scanline Effect")
